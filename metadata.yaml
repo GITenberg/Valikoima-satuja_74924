@@ -1,0 +1,43 @@
+_repo: Valikoima-satuja_74924
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nylander, Helmi
+    birthdate: 1875
+    deathdate: 1967
+    gutenberg_agent_id: '57730'
+    url: http://www.gutenberg.org/2009/agents/57730
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Nylander
+creator:
+  author:
+    agent_name: Cederholm, Hanna
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '57729'
+    url: http://www.gutenberg.org/2009/agents/57729
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Hanna_Cederholm
+    - https://fi.wikipedia.org/wiki/Hanna_Cederholm
+description: Translated selections from Astralis and Sagor och Berättelser.
+gutenberg_issued: '2024-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74924'
+language: fi
+pgterms:marc905: 20241022111434cederholm
+pgterms:marc906: '1916'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Leipuri ja hänen seitsemän aasiansa -- Janek'in ihmeelliset helmet
+  -- Satu rumasta pikku prinsessasta -- Myllyrenki joka sai taivaan tuulet valtaansa
+  -- Tähdetär.
+title: Valikoima satuja
+url: http://www.gutenberg.org/ebooks/74924
