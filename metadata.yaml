@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '57730'
     url: http://www.gutenberg.org/2009/agents/57730
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Nylander
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cederholm, Hanna
@@ -19,6 +22,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Hanna_Cederholm
     - https://fi.wikipedia.org/wiki/Hanna_Cederholm
 description: Translated selections from Astralis and Sagor och Berättelser.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74924#Valikoima-satuja
 gutenberg_issued: '2024-12-17'
 gutenberg_type: Text
 identifiers:
